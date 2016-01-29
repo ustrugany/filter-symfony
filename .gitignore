@@ -1,4 +1,5 @@
 # Symfony directories
+app/bootstrap.php.cache
 app/check.php
 app/SymfonyRequirements.php
 app/config/parameters.yml
